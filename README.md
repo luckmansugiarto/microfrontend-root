@@ -1,7 +1,7 @@
-Sample exercise to demonstrate the use of microfrontend using single spa framework.
+Sample exercise to demonstrate the use of microfrontend using single spa framework (https://single-spa.js.org/docs/getting-started-overview).
 This repository is used as the root config of other microfrontend applications.
 
-In order to run the microfrontend locally, each microfrontend applications need to be run separately. Look at each of the microfrontend's *package.json* file on which command to run.
+In order to run the microfrontend locally, each microfrontend applications need to be run separately. Look at each of the microfrontend's **package.json** file on which command to run.
 
 Once each microfrontend applications have been run locally, run this root config locally as well (see **package.json** file on which command to run).
 
